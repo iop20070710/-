@@ -52,7 +52,7 @@ const characters = {
         但其實是個樂善好施且重情義的男子漢，<br>
         因為攸特所贈與的百草丹，而和他們產生了交集……`,
         quote: "我的夢想，就是創造一個，<br>沒有邪惡與爭鬥的地方。",
-        image: "pic/pinway22.png",
+        image: "pic/Actor_35_02.png",
         video: "https://www.youtube.com/embed/-mcshNyViXk?si=Osq3GBHgrBxWnd2s"
     },
     Yuesha: {
@@ -62,7 +62,7 @@ const characters = {
         為人豪爽不拘小節，有時候會鬧出不少笑料，<br>
         總是令周圍的人好氣又好笑。`,
         quote: "當團長麻煩死了，<br>還不如想想今天晚飯吃啥。",
-        image: "pic/pinway22.png",
+        image: "pic/Actor_36_02.png",
         video: "https://www.youtube.com/embed/-mcshNyViXk?si=Osq3GBHgrBxWnd2s"
         },
         Yeduan: {
@@ -73,7 +73,7 @@ const characters = {
         對這件事情非常在意，也時常尋找偏方治療，<br>
         對月剎身為組長還總是耍寶總是氣到頭痛。`,
         quote: "月剎，算我求你，<br>你能不能不要再耍白癡了！",
-        image: "pic/pinway22.png",
+        image: "pic/Actor_37_02.png",
         video: "https://www.youtube.com/embed/-mcshNyViXk?si=Osq3GBHgrBxWnd2s"
         },
         Hanchan: {
@@ -84,7 +84,7 @@ const characters = {
         來歷成謎，沒有人知道他是什麼時候加入的，<br>
         唯一能算是她朋友的，大概只有月剎和夜斷吧。`,
         quote: "工作？今天不想。",
-        image: "pic/pinway22.png",
+        image: "pic/Actor_38_02.png",
         video: "https://www.youtube.com/embed/-mcshNyViXk?si=Osq3GBHgrBxWnd2s"
         },
     };
