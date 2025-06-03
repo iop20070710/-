@@ -1,48 +1,48 @@
 const newsData = [
   {
-    image: "/pic/nan.png",
+    image: "pic/nan.png",
     text: "更多消息敬請期待。",
     date: "????/??/??",
     link: "https://www.google.com/"
   },
   {
-    image: "/pic/nan.png",
+    image: "pic/nan.png",
     text: "更多消息敬請期待。",
     date: "????/??/??",
     link: "https://www.google.com/"
   },
   {
-    image: "/pic/nan.png",
+    image: "pic/nan.png",
     text: "更多消息敬請期待。",
     date: "????/??/??",
     link: "https://www.google.com/"
   },
   {
-    image: "/pic/apple.png",
+    image: "pic/apple.png",
     text: "月藍傳奇Remake絕無城DLC火熱製作中！",
     date: "2025/5/12",
     link: "https://www.google.com/"
   },
   {
-    image: "/pic/apple.png",
+    image: "pic/apple.png",
     text: "月藍傳奇Remake於Steam參與RM遊戲節，進行半價促銷。",
     date: "2025/5/12",
     link: "https://www.google.com/"
   },
   {
-    image: "/pic/apple.png",
+    image: "pic/apple.png",
     text: "月藍傳奇Remake外傳─百草的願望，進行Steam上架審核中。",
     date: "2025/5/12",
     link: "https://www.google.com/"
   },
   {
-    image: "/pic/apple.png",
+    image: "pic/apple.png",
     text: "期間限定，《謳歌的聖女》現在進行遊戲，即可獲得【世界樹的樹枝】。",
     date: "2025/5/12",
     link: "https://www.google.com/"
   },
   {
-    image: "/pic/apple.png",
+    image: "pic/apple.png",
     text: "為了感謝玩家們的喜愛，《謳歌的聖女》將變更為免費遊戲。",
     date: "2025/5/12",
     link: "https://www.google.com/"

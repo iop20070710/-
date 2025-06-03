@@ -1,72 +1,72 @@
 const gameData = [
   {
-    image: "/pic/Game01.png",
+    image: "pic/Game01.png",
     title: "月藍傳奇Remake外傳－百草的願望",
     tags: ["售價199元", "有試玩版"],
     link: "https://example.com/game1"
   },
   {
-    image: "/pic/Game02.png",
+    image: "pic/Game02.png",
     title: "月藍傳奇Remake",
     tags: ["售價499元", "無試玩版", "合作遊戲"],
     link: "https://example.com/game2"
   },
   {
-    image: "/pic/Game03.png",
+    image: "pic/Game03.png",
     title: "謳歌的聖女",
     tags: ["免費遊戲"],
     link: "https://example.com/game3"
   },
   {
-    image: "/pic/Game04.png",
+    image: "pic/Game04.png",
     title: "敬請期待",
     tags: ["？？？"],
     link: null
   },
   {
-    image: "/pic/Game04.png",
+    image: "pic/Game04.png",
     title: "敬請期待",
     tags: ["？？？"],
     link: null
   },
   {
-    image: "/pic/Game04.png",
+    image: "pic/Game04.png",
     title: "敬請期待",
     tags: ["？？？"],
     link: null
   },
   {
-    image: "/pic/Game04.png",
+    image: "pic/Game04.png",
     title: "敬請期待",
     tags: ["？？？"],
     link: null
   },
   {
-    image: "/pic/Game04.png",
+    image: "pic/Game04.png",
     title: "敬請期待",
     tags: ["？？？"],
     link: null
   },
     {
-    image: "/pic/Game04.png",
+    image: "pic/Game04.png",
     title: "敬請期待",
     tags: ["？？？"],
     link: null
   },
     {
-    image: "/pic/Game04.png",
+    image: "pic/Game04.png",
     title: "敬請期待",
     tags: ["？？？"],
     link: null
   },
     {
-    image: "/pic/Game04.png",
+    image: "pic/Game04.png",
     title: "敬請期待",
     tags: ["？？？"],
     link: null
   },
     {
-    image: "/pic/Game04.png",
+    image: "pic/Game04.png",
     title: "敬請期待",
     tags: ["？？？"],
     link: null
